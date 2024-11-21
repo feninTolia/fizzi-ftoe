@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Slipped"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Adipisicing non incididunt nulla fugiat ea nostrud esse magna nulla quis elit voluptate. Quis fugiat nulla nostrud proident pariatur fugiat aute Lorem laborum excepteur in sit. Occaecat eiusmod labore sint irure proident."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
